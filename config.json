@@ -1,0 +1,9 @@
+{
+    "time_tolerance" : 1,
+    "rmse_threshold" : 9.8,
+    "image_cutting" : 0.25,
+    "binarization_lower" : 50,
+    "binarization_upper" : 255,
+    "erosion_kernel" : 5,
+    "erosion_iterations" : 1
+}
