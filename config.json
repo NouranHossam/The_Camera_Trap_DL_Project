@@ -1,9 +1,12 @@
 {
-    "time_tolerance" : 1,
-    "rmse_threshold" : 9.8,
-    "image_cutting" : 0.25,
-    "binarization_lower" : 50,
+    "destination_directory" : "BDD",
+    "time_tolerance" : 15,
+    "rmse_threshold_empty_background" : 8,
+    "rmse_threshold_with_animal" : 9.5,
+    "image_cutting" : 0.3,
+    "binarization_lower" : 10,
     "binarization_upper" : 255,
     "erosion_kernel" : 5,
-    "erosion_iterations" : 1
+    "erosion_iterations" : 3,
+    "dilation_iterations" : 7
 }
