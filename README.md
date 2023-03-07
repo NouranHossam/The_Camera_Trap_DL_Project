@@ -9,3 +9,5 @@ https://docs.google.com/presentation/d/1_TRCST5EUuMT3NKGHNLcv6Nn7l51EBq0qzaybDQN
 Final Report for both iterations.
 https://docs.google.com/document/d/1_kz14czyN9QtnTgTbdRjp-4H0PAk10QwIYuKgi2esoI/edit
 
+To use the custom YOLOv8 model, run bdd_predict.py. The prediction results are also saved in the predict folder.
+
