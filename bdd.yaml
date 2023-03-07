@@ -1,0 +1,11 @@
+path: D:\\_Uni\Master\Geoinformatics\WS2022\Camera_Trap_Challenge\\training
+train: images\train
+val: images\train
+
+nc: 4
+
+names:
+  0: deer
+  1: badger
+  2: fox
+  3: hare
