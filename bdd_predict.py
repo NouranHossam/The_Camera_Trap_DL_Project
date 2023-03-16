@@ -2,6 +2,12 @@ from ultralytics import YOLO
 import cv2 as cv
 import os
   
+#### INFO FOR REVIEWERS ####
+# As we do not want to provide any project images
+# publicly on GitHub, they were deleted from the project.
+# For running the model on the images, just fill the 
+# "BDD_test" folder with images for prediction.  
+  
 # Setting paths for model, test images and predictions.
 model_path = "runs/detect/train5/weights/best.pt"
 image_source_path = "BDD_tests"
